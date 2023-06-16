@@ -3,7 +3,7 @@
 
 http://tool.liumingye.cn/
 
-AI
+AI Tool
 ChatGPT
 StableDiffusion
 Midjourney
