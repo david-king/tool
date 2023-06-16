@@ -7,6 +7,6 @@ http://tool.liumingye.cn/
 Chat GPT  
 https://chat.openai.com/  
 Stable Diffusion  
-https://stablediffusionweb.com/ 
+https://stablediffusionweb.com/  
 Midjourney  
-https://www.midjourney.com/ 
+https://www.midjourney.com/  
