@@ -5,8 +5,8 @@ http://tool.liumingye.cn/
 
 ## AI Tool
 
-ChatGPT
+Chat GPT
 
-StableDiffusion
+Stable Diffusion
 
 Midjourney
