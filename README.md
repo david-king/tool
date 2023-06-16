@@ -5,11 +5,11 @@ http://tool.liumingye.cn/
 
 # AI Tool
 
-Chat GPT. 
+Chat GPT  
 https://chat.openai.com/
 
-Stable Diffusion. 
+Stable Diffusion
 https://stablediffusionweb.com/
 
-Midjourney. 
+Midjourney
 https://www.midjourney.com/
