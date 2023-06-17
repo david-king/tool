@@ -9,3 +9,6 @@ Stable Diffusion
 https://stablediffusionweb.com/  
 Midjourney  
 https://www.midjourney.com/  
+
+# AI Tag
+http://tag.zoos.life/  
