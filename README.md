@@ -2,7 +2,7 @@
 私人收藏  
 http://tool.liumingye.cn/
 
-# AI Tool
+# AI
 Chat GPT  
 https://chat.openai.com/  
 Stable Diffusion  
@@ -12,3 +12,6 @@ https://www.midjourney.com/
 
 # AI Tag
 http://tag.zoos.life/  
+
+# AI Tool
+https://spell.novelai.dev/  
